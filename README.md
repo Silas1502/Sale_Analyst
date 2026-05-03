@@ -141,5 +141,6 @@ Product được trình bày theo 4 trang chính:
   - Xây dựng các chỉ số kinh doanh bằng DAX
 - Làm quen với tư duy phân tích:
   - Từ dữ liệu → trực quan hóa → rút ra insight
- 
+## 🔗 Power BI Dashboard
+👉 [Xem Dashboard Power BI (cần đăng nhập)] (https://app.powerbi.com/groups/f3e8277a-080e-48ca-8b63-7b903751924e/reports/0f18a3e8-66c0-46f2-a12c-42559fea4eda/1c46a0d30d04e915e04d?experience=power-bi)
 # ⭐ Thanks for reading!
